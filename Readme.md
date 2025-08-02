@@ -41,23 +41,30 @@ Implementación completa del algoritmo de compresión de Huffman desarrollada co
 
 ```
 📁 Proyecto Hans/
-├── 📄 main.py                 # Punto de entrada principal
-├── 📄 requirements.txt        # Dependencias del proyecto
-├── 📄 README.md              # Documentación principal
-├── 📁 src/                   # Código fuente
-│   ├── 📄 __init__.py        # Configuración del paquete
-│   ├── 📄 huffman_tree.py    # Estructuras de datos (Nodo, Árbol)
+├── 📄 main.py                    # Punto de entrada principal
+├── 📄 launcher.py                # Script launcher de conveniencia
+├── 📄 setup.py                   # Script de instalación automática
+├── 📄 requirements.txt           # Dependencias del proyecto
+├── 📄 README.md                  # Documentación principal
+├── 📄 Compresor_Huffman.py      # Archivo original (referencia)
+│
+├── 📁 src/                       # CÓDIGO FUENTE
+│   ├── 📄 __init__.py           # Configuración del paquete
+│   ├── 📄 huffman_tree.py       # Estructuras de datos (Nodo, Árbol)
 │   ├── 📄 huffman_compressor.py # Lógica de compresión/descompresión
-│   ├── 📄 gui_interface.py   # Interfaz gráfica moderna
-│   └── 📄 cli_interface.py   # Interfaz de línea de comandos
-├── � tests/                 # Pruebas y validación
-│   ├── 📄 __init__.py        # Configuración de tests
-│   ├── 📄 tests.py          # Suite completa de pruebas
-│   └── 📄 test_gui.py       # Pruebas específicas de GUI
-├── 📁 docs/                  # Documentación técnica
+│   ├── 📄 gui_interface.py      # Interfaz gráfica moderna
+│   └── 📄 cli_interface.py      # Interfaz de línea de comandos
+│
+├── 📁 tests/                     # PRUEBAS Y VALIDACIÓN
+│   ├── 📄 __init__.py           # Configuración de tests
+│   ├── 📄 tests.py             # Suite completa de pruebas (50+ casos)
+│   └── 📄 test_gui.py          # Pruebas específicas de GUI
+│
+├── 📁 docs/                      # DOCUMENTACIÓN TÉCNICA
 │   └── 📄 DOCUMENTACION_TECNICA.md # Análisis algorítmico detallado
-├── 📁 data/                  # Archivos de datos de prueba
-└── 📄 Compresor_Huffman.py  # Archivo original (referencia)
+│
+└── 📁 data/                      # ARCHIVOS DE DATOS DE PRUEBA
+    └── 📄 ejemplo_texto.txt     # Texto de ejemplo para pruebas
 ```
 
 ## 🚀 Instalación y Configuración
@@ -71,7 +78,7 @@ Implementación completa del algoritmo de compresión de Huffman desarrollada co
 
 ```bash
 # Clonar o descargar el proyecto
-cd "Proyecto Hans"
+cd "Algoritmo_de_Compresion"
 
 # Instalar dependencias
 pip install -r requirements.txt
