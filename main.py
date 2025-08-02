@@ -5,7 +5,7 @@ Módulo Principal del Compresor de Huffman
 Este módulo proporciona el punto de entrada principal para la aplicación
 del compresor de Huffman, permitiendo elegir entre interfaz gráfica o CLI.
 
-Autor: Proyecto Hans
+Autor: Gustav0C
 Fecha: Agosto 2025
 Versión: 1.0
 """
@@ -157,7 +157,7 @@ def mostrar_info_proyecto():
     ═══════════════════════════════════════════════════════════════
     
     📖 NOMBRE: Compresor de Huffman - Análisis Algorítmico
-    👤 AUTOR: Proyecto Hans
+    👤 AUTOR: Gustav0C
     📅 FECHA: Agosto 2025
     🏷️ VERSIÓN: 1.0
     🎓 CONTEXTO: Proyecto Académico - Análisis de Algoritmos
@@ -350,7 +350,7 @@ def main():
     
     if args.version:
         print("Compresor de Huffman v1.0")
-        print("Autor: Proyecto Hans")
+        print("Autor: Gustav0C")
         print("Fecha: Agosto 2025")
         return 0
     

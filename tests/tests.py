@@ -5,7 +5,7 @@ Suite de Pruebas Unitarias para el Compresor de Huffman
 Este módulo contiene todas las pruebas unitarias y casos de prueba
 para validar la correcta implementación del algoritmo de Huffman.
 
-Autor: Proyecto Hans
+Autor: Gustav0C
 Fecha: Agosto 2025
 Versión: 1.0
 

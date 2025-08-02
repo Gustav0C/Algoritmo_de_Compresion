@@ -5,7 +5,7 @@ Módulo de Compresión y Descompresión Huffman
 Este módulo implementa los algoritmos de compresión y descompresión
 utilizando la codificación de Huffman.
 
-Autor: Proyecto Hans
+Autor: Gustav0C
 Fecha: Agosto 2025
 Versión: 1.0
 

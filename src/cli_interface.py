@@ -5,7 +5,7 @@ Interfaz de Línea de Comandos (CLI) para el Compresor de Huffman
 Este módulo proporciona una interfaz de línea de comandos completa
 para el compresor de Huffman, permitiendo operaciones desde terminal.
 
-Autor: Proyecto Hans
+Autor: Gustav0C
 Fecha: Agosto 2025
 Versión: 1.0
 """

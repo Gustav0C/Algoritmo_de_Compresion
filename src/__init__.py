@@ -5,15 +5,15 @@ Archivo de inicialización del paquete del Compresor de Huffman
 Este archivo convierte el directorio en un paquete Python y define
 las exportaciones públicas del módulo.
 
-Autor: Proyecto Hans
+Autor: Gustav0C
 Fecha: Agosto 2025
 Versión: 1.0
 """
 
 # Información del paquete
 __version__ = "1.0.0"
-__author__ = "Proyecto Hans"
-__email__ = "proyecto.hans@example.com"
+__author__ = "Gustav0C"
+__email__ = "gcanales58@gmail.com"
 __description__ = "Implementación completa del algoritmo de compresión de Huffman"
 
 # Exportaciones principales

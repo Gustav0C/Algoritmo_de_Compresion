@@ -5,7 +5,7 @@ Módulo de Estructuras de Datos para el Algoritmo de Huffman
 Este módulo contiene las clases fundamentales para la implementación
 del algoritmo de compresión de Huffman.
 
-Autor: Proyecto Hans
+Autor: Gustav0C
 Fecha: Agosto 2025
 Versión: 1.0
 

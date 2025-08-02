@@ -5,7 +5,7 @@ Interfaz Gráfica para el Compresor de Huffman
 Este módulo implementa una interfaz gráfica moderna utilizando CustomTkinter
 para el compresor de Huffman.
 
-Autor: Proyecto Hans
+Autor: Gustav0C
 Fecha: Agosto 2025
 Versión: 1.0
 """
