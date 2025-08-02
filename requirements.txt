@@ -1,0 +1,26 @@
+# Dependencias del Proyecto Compresor de Huffman
+# ===============================================
+
+# Dependencias básicas (incluidas en Python estándar)
+# - heapq: Para implementar cola de prioridad en construcción del árbol
+# - pickle: Para serialización de datos (si se requiere)
+# - json: Para guardar/cargar configuraciones y resultados
+# - time: Para medición de rendimiento
+# - threading: Para procesamiento en background en GUI
+# - pathlib: Para manejo de rutas de archivos
+# - collections: Para Counter y defaultdict
+# - typing: Para anotaciones de tipos
+# - unittest: Para suite de pruebas
+# - argparse: Para interfaz de línea de comandos
+# - sys: Para manejo del sistema
+# - string: Para constantes de caracteres
+# - random: Para generación de datos de prueba
+
+# Dependencias externas
+customtkinter>=5.0.0  # Para interfaz gráfica moderna
+
+# Dependencias opcionales para desarrollo
+# pytest>=7.0.0         # Sistema de pruebas alternativo (opcional)
+# black>=22.0.0         # Formateador de código (opcional)
+# mypy>=0.991           # Verificador de tipos (opcional)
+# flake8>=5.0.0         # Linter de código (opcional)
