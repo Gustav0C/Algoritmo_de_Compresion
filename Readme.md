@@ -46,7 +46,6 @@ Implementación completa del algoritmo de compresión de Huffman desarrollada co
 ├── 📄 setup.py                   # Script de instalación automática
 ├── 📄 requirements.txt           # Dependencias del proyecto
 ├── 📄 README.md                  # Documentación principal
-├── 📄 Compresor_Huffman.py      # Archivo original (referencia)
 │
 ├── 📁 src/                       # CÓDIGO FUENTE
 │   ├── 📄 __init__.py           # Configuración del paquete
